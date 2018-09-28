@@ -1,5 +1,6 @@
 package bitset
-
+// author : zicheng.lang @ blockin.com
+// date   : 09/28 2018
 type bitsMap []byte
 
 type BitSet struct {
